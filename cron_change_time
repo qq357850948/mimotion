@@ -1,11 +1,11 @@
 trigger by: workflow_run
 current system time:
-UTC: 26-06-28 06:45:27
-北京时间: 26-06-28 14:45:27
+UTC: 26-06-28 09:57:09
+北京时间: 26-06-28 17:57:09
 current cron:
-UTC时间: '32 2,7,12 * * *'
-北京时间: '32 10,15,20 * * *'
-next cron:
 UTC时间: '2 2,7,12 * * *'
 北京时间: '2 10,15,20 * * *'
-next exec time: UTC(7:2) 北京时间(15:2)
+next cron:
+UTC时间: '55 2,7,12 * * *'
+北京时间: '55 10,15,20 * * *'
+next exec time: UTC(12:55) 北京时间(20:55)
